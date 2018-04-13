@@ -1,1 +1,1 @@
-# ASP.NET-Core-SPA-with-VueJS-TypeScript
+# ASP.NET Core SPA (Single Page Application) w/ Vue.JS & TypeScript
